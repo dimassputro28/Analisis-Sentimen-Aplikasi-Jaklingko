@@ -1,0 +1,329 @@
+No.,Content,Score,At,Label
+1,"['jelek', 'tolong', 'duit', 'gue', 'ribu', 'ngendap', 'ribu', 'gue', 'gue', 'kerja', 'gaji', 'umr', 'tolong', 'aplikasi', 'kali', 'benah']",1,06/01/2024 02.59,Negatif
+2,"['tinggal', 'bis', 'lapor', 'lapor', 'rumit', 'banget', 'bayar', 'deh', 'potong', 'a']",1,10/01/2024 11.10,Negatif
+3,"['pelihara', 'sistem', 'minimal', 'data', 'beli', 'orang', 'bayar', 'tiket', 'masuk', 'aplikasi', 'barcode', 'gila', 'jam', 'jam', 'subuh', 'up', 'jaring', 'halte', 'jalan', 'kaki', 'halte', 'pakai', 'tiket', 'jaklingko', 'jaklingko', 'telpon', 'angkat', 'ulang', 'kali', 'kali', 'mending', 'mikir', 'deh', 'download', 'susah', 'mending', 'mikir', 'download', 'aplikasi']",1,13/01/2024 14.50,Negatif
+4,"['bayar', 'salah', 'balikin', 'dana', 'ngemis', 'gilir', 'lempar', 'bayar']",1,15/01/2024 00.51,Negatif
+5,"['aplikasi', 'gagunaeror']",1,15/01/2024 01.38,Negatif
+6,"['tim', 'aplikasi', 'kerja', 'tolol', 'kali', 'ya', 'aplikasi', 'hapus', 'jelek']",1,16/01/2024 10.47,Negatif
+7,"['aplikasi', 'sampah', 'duit', 'pemda', 'buang', 'aplikasi']",1,21/01/2024 00.25,Negatif
+8,"['kocak', 'sistem', 'tangan', 'keluh', 'nasabah']",1,22/01/2024 02.11,Negatif
+9,"['tulis', 'nomor', 'hp', 'nomor', 'otp', 'muncul', 'muncul', 'pesan', 'tolol', 'banget', 'asw', 'aplikasi']",1,23/01/2024 08.27,Negatif
+10,"['aplikasi', 'alat', 'halte', 'csw', 'utama', 'rusak', 'disaranin', 'pakai', 'aplikasi', 'pakai', 'last', 'ending', 'gojek', 'mbak', 'mbak', 'ramah']",1,26/01/2024 17.38,Negatif
+11,['aplikasi'],1,27/01/2024 03.45,Negatif
+12,"['kecewa', 'kali', 'hasil', 'transaksi', 'tiket', 'bayar', 'hasil', 'uang', 'tunggu', 'minggu', 'uang']",1,28/01/2024 08.05,Negatif
+13,['aplikasi'],1,29/01/2024 02.52,Negatif
+14,"['saldo', 'gua', 'potong', 'qris', 'pakai', 'komplain', 'sampah', 'refund', 'deh', 'refund', 'aplikasi', 'sampah', 'gasiap', 'kota', 'modern', 'sok', 'aplikasi', 'kayak']",1,04/02/2024 12.58,Negatif
+15,"['uninstall', 'pesan', 'tiket', 'scan', 'sulit', 'rumit']",1,05/02/2024 13.05,Negatif
+16,"['kali', 'beli', 'tiket', 'transjakarta', 'confirm', 'bayar', 'halte', 'berangkat', 'beda', 'scan', 'tiket', 'pakai']",1,06/02/2024 18.42,Negatif
+17,"['aplikasi', 'sampah']",1,07/02/2024 05.31,Negatif
+18,"['aplikasi', 'cari', 'rute', 'temu', 'jaklinko']",1,13/02/2024 02.10,Negatif
+19,"['saldo', 'ribu', 'pakai', 'refund', 'lemah', 'transaksi', 'hasil']",1,15/02/2024 13.41,Negatif
+20,"['kecewa', 'aplikasi', 'jaklingko', 'kali', 'pesan', 'tiket', 'hasil', 'uang', 'bayar', 'uang']",1,21/02/2024 08.16,Negatif
+21,"['aplikasi', 'kon']",1,21/02/2024 14.27,Negatif
+22,"['rumit', 'sampah', 'aplikasi']",1,24/02/2024 23.34,Negatif
+23,"['masuk', 'titik', 'bayar', 'eh', 'scan', 'gate', 'gara', 'gara', 'titik', 'ubah', 'tibatiba', 'kali', 'pakai', 'aplikasi', 'scan']",1,25/02/2024 23.53,Negatif
+24,['jelek'],1,26/02/2024 12.28,Negatif
+25,"['aplikasi', 'buruk', 'buang', 'anggar', 'negara']",1,03/03/2024 13.48,Negatif
+26,"['aplikasi', 'bodoh', 'the', 'point', 'rumit', 'pakai', 'suruh', 'kesana', 'kemari', 'baca', 'detail']",1,03/03/2024 16.28,Negatif
+27,"['pakai', 'aplikasi', 'buru', 'buru', 'aplikasi', 'lambat', 'server', 'down', 'fungsi', 'scan', 'kadang', 'sulit', 'salah', 'pilih', 'halte', 'refund', 'pokok', 'aplikasi', 'user', 'hostile', 'mending', 'beli', 'kartu', 'jaklingko', 'program', 'benah']",1,04/03/2024 05.42,Negatif
+28,"['kasih', 'bintang', 'hapus', 'google', 'biar', 'kena', 'double', 'charge', 'saldo']",1,08/03/2024 15.56,Negatif
+29,"['lambat', 'muter']",1,09/03/2024 20.26,Negatif
+30,"['tunggu', 'jam', 'mrt', 'gara', 'aplikasi', 'error', 'buka', 'data', 'seluler', 'bagus']",1,12/03/2024 15.10,Negatif
+31,"['jam', 'sibuk', 'usaha', 'kendala', 'aplikasi', 'jam', 'pulang', 'kantor', 'error']",1,21/03/2024 10.02,Negatif
+32,"['aplikadi', 'asa', 'pakai', 'transjakarta', 'a', 'pantai', 'maju', 'eh', 'mah', 'kagak', 'aplikasi', 'lucu', 'jaklingko', 'mikrotik', 'transjakarta', 'baca', 'pergi']",1,30/03/2024 20.33,Negatif
+33,"['sumpah', 'ya', 'allah', 'aplikasi', 'orang', 'emosigue', 'halte', 'blok', 'out', 'tugas']",1,01/04/2024 00.51,Negatif
+34,"['layak', 'aplikasi']",1,05/04/2024 02.12,Negatif
+35,"['tolong', 'sistem', 'susah', 'gue', 'beli', 'tiket', 'jaklingko', 'halte', 'mayor', 'slesai', 'bar', 'ubah', 'rute', 'halte', 'pasar', 'timur', 'kali', 'menit', 'gue', 'beliblagi', 'aneh', 'banget', 'woy']",1,16/04/2024 04.44,Negatif
+36,['jelek'],1,22/04/2024 03.38,Negatif
+37,"['aplikasi', 'sampah', 'topup', 'saldo']",1,26/04/2024 07.21,Negatif
+38,"['kemudi', 'mobil', 'ugalugalan', 'malas', 'ambil', 'tumpang', 'cepat', 'doang', 'ambil', 'tumpang']",1,01/05/2024 08.08,Negatif
+39,"['tolong', 'supir', 'jaklingko', 'niat', 'kerja', 'resign', 'mending', 'mentang', 'gratis', 'layan', 'kayak', 'kotor', 'hewan', 'najis']",1,04/05/2024 10.30,Negatif
+40,"['qr', 'tiru', 'aplikasi', 'transjakarta']",1,05/05/2024 07.44,Negatif
+41,"['aplikasi', 'salah']",1,05/05/2024 10.35,Negatif
+43,"['aplikasi', 'buruk', 'server', 'lambat', 'penetuan', 'lokasi', 'pergi', 'akurat', 'user', 'friendly', 'adakan', 'fitur', 'beli', 'tiket', 'aplikasi', 'go', 'grab', 'shopee', 'banding', 'aplikasi', 'fitur', 'fokus', 'serius', 'tugas', 'utama', 'aplikasi', 'overall', 'ui', 'ux', 'sesuai', 'harap']",1,08/05/2024 16.58,Negatif
+44,"['aplikasi', 'rumit', 'scam', 'saldo', 'ewallet', 'potong', 'proses', 'berbulanbulan', 'aju', 'dana']",1,11/05/2024 05.32,Negatif
+45,"['pagi', 'suami', 'tabrak', 'angkot', 'jaklingko', 'jaklingko', 'tanggung', 'please', 'jaklingko', 'jaklingko', 'ngejar', 'setor', 'kalo', 'bawa', 'mobil', 'ngebut', 'ngebut']",1,14/05/2024 00.27,Negatif
+46,"['buruk', 'beli', 'tiket', 'kode', 'qris', 'scan']",1,14/05/2024 00.35,Negatif
+47,"['aplikasi', 'isi', 'info', 'doang', 'rute']",1,15/05/2024 00.39,Negatif
+48,"['aplikasi', 'aco', 'bin', 'ngawur', 'kapok', 'rekomendasi', 'rute', 'aplikasi']",1,15/05/2024 08.09,Negatif
+49,"['developer', 'gaji', 'buta', 'cari', 'komisi', 'proyek', 'aplikasi', 'beratbesar', 'ram', 'hp', 'wifispeed', 'lot', 'posisi', 'kendara', 'real', 'time', 'dstdst']",1,15/05/2024 23.46,Negatif
+50,"['aplikasi', 'model', 'mending', 'armada', 'sih', 'weekend', 'rangin']",1,18/05/2024 10.09,Negatif
+51,"['buruk', 'sejarah', 'dunia', 'angkot', 'banding', 'nih', 'mentang', 'mentang', 'gratis', 'enak', 'layan', 'publik', 'gratis', 'biaya', 'operasional', 'tanggung', 'pajak']",1,18/05/2024 12.36,Negatif
+52,"['aneh', 'buka', 'qris', 'jaklingko', 'jaklingko', 'muncul', 'tejadi', 'salah', 'sistem', 'mending', 'transjakarta', 'pakai', 'kartu', 'elektronik', 'aplikasi', 'transjakarta', 'deh']",1,20/05/2024 05.00,Negatif
+53,"['aplikasi', 'cemen']",1,20/05/2024 09.34,Negatif
+54,"['isi', 'pulsa', 'saldo', 'nih', 'aplikasi', 'banget']",1,21/05/2024 14.52,Negatif
+55,"['tolong', 'tingkat', 'kualitas', 'aplikasi', 'aplikasi', 'banget', 'error', 'akibat', 'tiket', 'pakai', 'rugi', 'customer']",1,24/05/2024 10.28,Negatif
+56,"['servernya', 'benerin', 'servernya', 'lambat', 'servernya', 'server', 'server', 'telat', 'berangkat', 'pulang', 'gara', 'servernya', 'server', 'server', 'benerin', 'oy']",1,24/05/2024 10.38,Negatif
+57,"['jam', 'sibuk', 'aplikasi', 'down', 'refund', 'tiket', 'hasil', 'salah', 'aplikasi', 'butuh', 'super', 'duper', 'kali', 'ganti', 'direktur', 'becus', 'urus', 'sepele']",1,24/05/2024 10.50,Negatif
+58,"['salah', 'capek']",1,24/05/2024 11.03,Negatif
+59,"['aplikasi', 'lemah']",1,26/05/2024 04.28,Negatif
+60,"['login', 'register', 'hasil']",1,26/05/2024 18.03,Negatif
+61,"['beli', 'tiket', 'qris', 'dana', 'dana', 'bayar', 'tiket', 'aplikasi', 'jaklingko', 'pending', 'buka', 'paksa', 'beli', 'uang', 'bawa', 'duit', 'pas']",1,28/05/2024 13.02,Negatif
+62,"['supirnya', 'songonglewat', 'doangbangke']",1,30/05/2024 00.33,Negatif
+63,"['tolong', 'akurat', 'halte', 'tingkat', 'lucu', 'turun', 'beda', 'halte', 'halte', 'qris', 'scan']",1,02/06/2024 01.52,Negatif
+64,"['maaf', 'kasih', 'bintang', 'aplikasi', 'salah', 'beli', 'tiket', 'berhasiltapimau', 'buka', 'qrnya', 'aplikasi', 'mohon', 'serius', 'memperpaikinya']",1,02/06/2024 08.51,Negatif
+65,"['aplikasi', 'integrasi', 'rumit', 'qrcode', 'rute', 'aplikasi', 'mending', 'pakai', 'kartu', 'ketimbang', 'aplikasi', 'rumit']",1,08/06/2024 00.52,Negatif
+66,"['apaapaan', 'pakai', 'aplikasi', 'download', 'pas', 'daftar', 'nomer', 'daftar', 'suruh', 'pakai', 'nomer', 'nomer', 'pakai', 'orang', 'pakai', 'nomer', 'jaklingko', 'jaklingko']",1,10/06/2024 15.12,Negatif
+67,['lemah'],1,11/06/2024 08.56,Negatif
+68,"['daftar', 'kartu', 'jakarta', 'jaklingko', 'server', 'salah', 'melulu', 'salah', 'daftar']",1,13/06/2024 23.12,Negatif
+69,['kerja'],1,16/06/2024 12.01,Negatif
+70,"['user', 'banget', 'regist', 'mentok', 'kode', 'otp', 'masuk', 'motif', 'login', 'hadeh']",1,18/06/2024 22.58,Negatif
+71,"['pakai', 'aplikasinta', 'beli', 'tiket', 'kode', 'qr', 'scan']",1,19/06/2024 11.26,Negatif
+72,"['rute', 'ngetes', 'lokasi', 'rumah', 'sekolah', 'rumah', 'temu', 'rute', 'jaklingko', 'ngelewatin', 'rute']",1,20/06/2024 14.53,Negatif
+73,"['alam', 'jaklingko', 'jaklingko', 'buruk', 'butuh', 'jaklingko', 'jaklingko', 'feeder', 'transjakarta', 'rute', 'serpongkalideres', 'layan', 'jam', 'malam', 'terluntalunta', 'feeder', 'transjakarta', 'rute', 'seringkali', 'lambat', 'menit', 'acara', 'batal', 'moga', 'feeder', 'transjakarta', 'rute', 'jam', 'jam', 'kali', 'tolong', 'jam', 'operasional', 'mudah']",1,22/06/2024 16.06,Negatif
+74,"['aplikasi', 'buruk', 'layan', 'tranportasi', 'buruk', 'transportasi', 'malam', 'buruk']",1,22/06/2024 16.42,Negatif
+75,"['lelet', 'telat', 'kerja', 'melipir', 'macet', 'suka', 'salah', 'apknya']",1,24/06/2024 14.16,Negatif
+77,"['aplikasi', 'replikasi', 'transjakarta', 'nlingko']",1,26/06/2024 23.01,Negatif
+78,"['kecewa', 'berat', 'beli', 'pakai', 'input', 'mending', 'gax', 'ngrugiin']",1,28/06/2024 10.09,Negatif
+79,"['kesan', 'petama', 'negatif', 'pakai', 'error', 'beli', 'kartu', 'aplikasi', 'lai', 'transjakarta', 'trans', 'rugi']",1,01/07/2024 10.56,Negatif
+80,"['kecewa', 'sikap', 'supir', 'nyangga', 'ramah', 'sekalibaru', 'alami']",1,02/07/2024 10.48,Negatif
+81,"['aplikasi', 'registrasi', 'kali', 'coba']",1,03/07/2024 03.36,Negatif
+82,"['aplikasi', 'jaklingko', 'jaklingko', 'anjur', 'angkut', 'kci', 'grab', 'gaji', 'buta', 'developer']",1,05/07/2024 01.22,Negatif
+83,"['titik', 'kota', 'ngetap', 'glodok', 'pulang', 'turun', 'kota', 'ngetap', 'kota', 'titik', 'sarinah', 'kacau', 'deh']",1,06/07/2024 21.38,Negatif
+84,"['aplikasi', 'buruk', 'supir', 'jaklinko', 'jls']",1,07/07/2024 15.00,Negatif
+85,"['aplikasi', 'jelek', 'gaush', 'dowload', 'lambat', 'lemah']",1,09/07/2024 04.54,Negatif
+86,"['bintang', 'kesal', 'search', 'rute']",1,09/07/2024 07.24,Negatif
+87,"['metode', 'bayar', 'lambat']",1,10/07/2024 00.37,Negatif
+88,"['lambat', 'jam', 'cari', 'rute', 'gila']",1,10/07/2024 10.15,Negatif
+89,"['siang', 'sesuai', 'jadwal', 'bagus', 'siswa', 'masuk', 'pagi']",1,11/07/2024 23.15,Negatif
+90,"['salah', 'jam', 'pulang', 'kantor']",1,15/07/2024 10.32,Negatif
+91,"['masyarakat', 'cari', 'nafkah', 'transportasi', 'sengsara']",1,15/07/2024 12.02,Negatif
+92,"['angkotnya', 'renti', 'tunggu', 'tolong', 'traning', 'supirnyaaa']",1,16/07/2024 13.58,Negatif
+93,"['kali', 'mudah', 'sulit', 'buang', 'download', 'halte', 'pdpinang', 'gor', 'sumatri', 'payment', 'qris', 'pintu', 'gor', 'sumatri', 'aplikasi', 'kode', 'barcode', 'suruh', 'halte', 'grogol', 'bawa', 'anak', 'mudah', 'pelayananya', 'cukuuup', 'tau']",1,20/07/2024 07.08,Negatif
+94,[],1,22/07/2024 02.37,Negatif
+95,"['gue', 'kalo', 'kasih', 'bintang', 'gue', 'kasih', 'bintang', 'nol', 'dah', 'gue', 'bawar', 'beli', 'anjr', 'daftar', 'rumit', 'bantu', 'banget', 'anjg', 'sumpah', 'gue', 'kesel', 'banget', 'daftar', 'beli', 'tiket', 'rumit', 'gue', 'busway', 'anjm', 'jaga', 'kagak', 'ngebantu', 'kecewa', 'banget', 'ajg']",1,23/07/2024 14.50,Negatif
+96,"['aplikasi', 'aneh', 'kode', 'qr', 'valid', 'turun', 'halte', 'plus', 'ketidaktahuan', 'tugas', 'hadap', 'aplikasi', 'kesel', 'alas', 'tugas', 'simpel', 'sinyal', 'jelek', 'asli', 'kocak', 'saran', 'qr', 'code', 'hasil', 'qr', 'code', 'lock', 'duga', 'qr', 'code', 'terrefresh', 'shingga', 'out', 'beda']",1,24/07/2024 02.34,Negatif
+97,"['aplikasi', 'pas', 'beli', 'tiket', 'suka', 'mending', 'pakai', 'kartu']",1,26/07/2024 01.21,Negatif
+98,"['salah', 'login']",1,26/07/2024 01.36,Negatif
+99,"['aplikasi', 'kasih', 'mulu', 'server', 'ganggu', 'lemah']",1,26/07/2024 03.40,Negatif
+100,"['jelek', 'ngeleh', 'lambat', 'rumit', 'bantu']",1,01/08/2024 00.12,Negatif
+101,['rumit'],1,01/08/2024 11.05,Negatif
+102,"['aplikasi', 'sampah', 'tuju', 'bantu', 'rumit', 'duit', 'warga', 'jakarta', 'buang', 'siasia', 'aplikasi']",1,03/08/2024 07.28,Negatif
+103,"['aplikasi', 'ya', 'payment', 'scan', 'maksud', 'coba', 'ujung', 'transaksi', 'fiktif', 'mending', 'takedown', 'server', 'aplikasi', 'ya']",1,06/08/2024 03.09,Negatif
+104,"['daftar', 'rumit', 'maaf', 'uninstall']",1,06/08/2024 12.42,Negatif
+105,['aplikasi'],1,07/08/2024 09.17,Negatif
+106,"['aplikasi', 'ajar', 'beli', 'tiket', 'kali', 'pending', 'saldo', 'potong', 'tiket', 'muncul', 'adu', 'respon', 'hati', 'kawan', 'aplikasi', 'tipu']",1,07/08/2024 10.17,Negatif
+107,['sampah'],1,07/08/2024 10.35,Negatif
+108,"['aplikasi', 'bantu', 'efektif', 'transjakarta', 'qr', 'halte']",1,07/08/2024 10.57,Negatif
+109,"['cek', 'aktivasi', 'kartu', 'buruk']",1,08/08/2024 13.05,Negatif
+110,"['aplikasi', 'fungsi', 'normal', 'maps', 'salah', 'akurat', 'tolol', 'rugi', 'kali', 'kali', 'maps', 'hidup', 'thanks']",1,10/08/2024 10.28,Negatif
+111,"['sok', 'bad', 'dont', 'use', 'this', 'aplikasi']",1,13/08/2024 02.04,Negatif
+112,"['malam', 'habis', 'pelihara', 'aplikasi', 'bayar', 'pakai', 'qr', 'salah', 'mulu', 'mending', 'pakai', 'pmeliharaan', 'aplikasi', 'nyusahingk', 'updatean']",1,13/08/2024 04.52,Negatif
+113,['lambat'],1,13/08/2024 05.47,Negatif
+114,"['aplikasi', 'kualitas', 'nol']",1,13/08/2024 09.48,Negatif
+115,"['beli', 'tiket', 'transjakarta', 'saldo', 'fello', 'potong', 'tiket', 'anjirsegera', 'uninstall']",1,15/08/2024 02.28,Negatif
+116,"['error', 'payment', 'tiket', 'muncul', 'banget', 'aplikasi', 'sumpah']",1,15/08/2024 04.56,Negatif
+117,"['layan', 'jaklinko', 'cepat', 'efisien', 'praktis', 'layan', 'angkot', 'confensional', 'jaklinko', 'menang', 'gratis', 'doang', 'serba', 'lambat', 'rumit', 'mutermuter', 'rute', 'bubarin', 'jaklinko', 'tuh', 'menuh', 'menuhin', 'jalan', 'sampah']",1,15/08/2024 23.39,Negatif
+118,['aplikasi'],1,16/08/2024 03.31,Negatif
+119,"['transjakarta', 'suruh', 'pakai', 'aplikasi', 'ganti', 'pimpin', 'ganti', 'bijak', 'sarana', 'publik', 'jabat']",1,18/08/2024 07.57,Negatif
+120,"['amatir', 'aplikasi', 'sok', 'ngtnt', 'hambat']",1,19/08/2024 00.11,Negatif
+121,"['aplikasi', 'buruk']",1,19/08/2024 05.30,Negatif
+122,"['loginnya', 'mampus', 'jaring', 'hambat']",1,19/08/2024 05.56,Negatif
+123,"['beli', 'pending', 'jelascs', 'komputer', 'balasaplikasi', 'niattolol']",1,22/08/2024 00.11,Negatif
+124,"['aplikasi', 'susah', 'masyarakat', 'pesan', 'tiket', 'pending', 'kali', 'bayar', 'hasil', 'eh', 'ngetap', 'kagak', 'bisaaplikasi', 'model', 'biar', 'anggap', 'kerja', 'lihat', 'tuh', 'ratingnya', 'jelek', 'ya', 'skip', 'perubahanaplikasi', 'cocok', 'ngeprank', 'jurus', 'tipu', 'bahaya', 'ta']",1,22/08/2024 00.38,Negatif
+125,"['layan', 'buruk', 'kali', 'muter', 'ujung', 'solusi', 'buruk', 'pergi', 'saldo', 'potong', 'kali', 'tau', 'saldo', 'susah', 'rugi']",1,22/08/2024 15.59,Negatif
+126,['tolol'],1,23/08/2024 02.43,Negatif
+127,"['bayar', 'qris', 'hasil', 'pending', 'coba', 'hubung', 'cs']",1,25/08/2024 10.11,Negatif
+128,"['aplikasi', 'buruk', 'kirim', 'otp', 'banget', 'kali', 'hasil', 'tolong']",1,26/08/2024 07.46,Negatif
+129,"['aplikasi', 'jelek']",1,27/08/2024 05.19,Negatif
+130,"['aplikasi', 'mahal', 'mahal', 'mudah', 'sulit']",1,01/09/2024 07.04,Negatif
+131,"['aplikasi', 'sulit', 'instal', 'pas', 'stasiun', 'laku', 'suruh', 'pakai', 'kartu']",1,01/09/2024 07.06,Negatif
+132,"['praktis', 'sulit', 'orang', 'aplikasi']",1,03/09/2024 10.51,Negatif
+133,"['pesan', 'stasiun', 'tebet', 'masuk', 'stasiun', 'cawang', 'buruk', 'nih', 'aplikasi']",1,06/09/2024 09.39,Negatif
+134,"['dear', 'trans', 'jakarta', 'tolong', 'kalo', 'niat', 'aplikasi', 'beli', 'tiket', 'online', 'halte', 'mesin', 'out', 'biar', 'sulit', 'orangmesin', 'jadul', 'pakai']",1,07/09/2024 03.02,Negatif
+135,"['tiket', 'kadaluarsa', 'menit', 'beli', 'jam', 'kereta', 'hasil', 'tiket', 'pakai', 'buangbuang', 'saldo', 'saran', 'tolong', 'jangka', 'tiket', 'jam', 'beli', 'terima', 'kasih']",1,07/09/2024 03.13,Negatif
+136,"['rumit', 'otp', 'kayak', 'sejahtera', 'rakyat', 'sulit']",1,07/09/2024 11.39,Negatif
+137,"['pagi', 'gue', 'up', 'saldo', 'fello', 'aplikasi', 'biar', 'mudah', 'bayar', 'gue', 'pakai', 'qris', 'bayar', 'up', 'muncul', 'bayar', 'qris', 'tugas', 'transjakarta', 'nyuruh', 'ngecilin', 'huruf', 'dihp', 'gue', 'gue', 'coba', 'dihp', 'gue', 'tugas', 'transjakarta', 'coba', 'pakai', 'dihp', 'muncul', 'bayar', 'ngalamin', 'saldo', 'gue', 'ngendap', 'diapk', 'tau', 'mending', 'gue', 'up', 'gara', 'aplikasi', 'gue', 'telat', 'berangkat', 'kerja']",1,08/09/2024 06.14,Negatif
+138,[],1,15/09/2024 00.36,Negatif
+139,"['aplikasi', 'keluh', 'armada', 'muncul', 'muncul', 'penuh', 'tanggap', 'buka', 'contact', 'center', 'customer', 'care', 'bantu']",1,15/09/2024 01.09,Negatif
+140,"['aplikasi', 'kartu', 'jaklingko', 'jaklingko', 'baca', 'aplikasi', 'ira', 'pakai', 'aplikasi', 'mudah', 'eh', 'nyata', 'rumit']",1,15/09/2024 18.35,Negatif
+141,"['aplikasi', 'error', 'gunain', 'bantu', 'pis', 'down', 'aplikasi', 'sesal']",1,19/09/2024 09.23,Negatif
+142,"['daftar', 'nomor', 'telepon', 'email', 'email', 'masuk', 'terima', 'daftar', 'ulang', 'masuk', 'email', 'terlebihbdahulu', 'input', 'no', 'telepon', 'tulis', 'nomor', 'telepon', 'input', 'no', 'telepon', 'email', 'diinput', 'coba', 'hapus', 'akun', 'harap', 'daftar', 'ulang', 'eh', 'nyata', 'hapus', 'permanen', 'no', 'tlpga', 'no', 'telepon', 'terinstal', 'mobile', 'banking', 'email', 'sistem']",1,24/09/2024 01.35,Negatif
+143,"['refund', 'tiket', 'refund', 'masuk', 'tiket', 'error', 'nungu', 'refund', 'tunggu', 'refund', 'tiket']",1,29/09/2024 10.28,Negatif
+144,"['program', 'server', 'tiket', 'beli', 'muncul']",1,30/09/2024 09.13,Negatif
+145,"['qr', 'masuk', 'halte', 'discan', 'bayar', 'dasar', 'developer', 'tolol', 'aplikasi', 'coba', 'user', 'langsung', 'launcing', 'susah', 'user', 'dana', 'perintah', 'sih', 'aplikasi', 'gabener', 'bayar', 'pajak', 'mahal', 'hasil', 'zeroo', 'transpotasi']",1,03/10/2024 12.15,Negatif
+146,"['bayar', 'rumit', 'bayar', 'pakai', 'aplikasi', 'dana', 'lemah']",1,03/10/2024 23.53,Negatif
+147,"['aplikasi', 'nama', 'jaklingko', 'lihat', 'jadwal', 'transjakarta', 'dll', 'aneh', 'banget', 'nih', 'aplikasi']",1,05/10/2024 12.40,Negatif
+148,"['aplikasi', 'tolol', 'anjing', 'gue', 'beli', 'tiket', 'tegalanpal', 'putih', 'pondok', 'jadikarawaci', 'gila', 'mane', 'gue', 'bayar', 'tugas', 'bantu', 'anjing', 'main', 'hp', 'konyol']",1,07/10/2024 06.39,Negatif
+149,"['submit', 'profile', 'bgttttt']",1,08/10/2024 09.47,Negatif
+150,"['aplikasi', 'reami', 'pemerintahaparatur', 'negara', 'sulit', 'akses', 'kerja', 'kapai', 'aplikasi', 'rumit']",1,09/10/2024 08.05,Negatif
+151,"['aplikasi', 'sad', 'mending', 'tugas', 'halte']",1,11/10/2024 06.47,Negatif
+152,"['aplikasi', 'buka', 'pakai', 'wifi', 'transjakartanya', 'error', 'mulu', 'pas', 'tiketing', 'jaklingko', 'aplikasi', 'gembel']",1,11/10/2024 11.12,Negatif
+153,"['aplikasi', 'ppk', 'ganggu', 'mulu']",1,11/10/2024 11.38,Negatif
+154,"['daftar', 'apkikasi']",1,11/10/2024 14.28,Negatif
+155,"['aplikasi', 'lambat']",1,12/10/2024 06.35,Negatif
+156,"['supir', 'jaklingko', 'stres', 'ngebut', 'jalan', 'bahaya', 'kendara']",1,15/10/2024 01.13,Negatif
+157,"['laku', 'bayar', 'qris', 'saldo', 'potong', 'tiket', 'aplikasi', 'status', 'bayar', 'pending']",1,18/10/2024 10.11,Negatif
+158,"['aplikasi', 'perintah', 'layak', 'sampah', 'contoh', 'kayak', 'aplikasi']",1,20/10/2024 01.54,Negatif
+159,"['aplikasi', 'tolol', 'bodoh', 'publik', 'halte', 'scan', 'qr', 'code', 'tugas', 'marah', 'tuduh', 'kartu', 'developer', 'ngece', 'mending', 'pakai', 'close', 'up']",1,24/10/2024 08.45,Negatif
+160,"['aplikasi', 'banget']",1,25/10/2024 00.37,Negatif
+161,"['rumit', 'beli', 'tiket', 'cari', 'temu']",1,26/10/2024 04.45,Negatif
+162,"['aplikasi', 'lambat']",1,26/10/2024 10.04,Negatif
+163,"['salah', 'coba', 'isi', 'saldo', 'fello', 'fello', 'salah', 'server', 'salah', 'pop', 'up', 'metode', 'bayar', 'muncul', 'buruk', 'errornya']",1,29/10/2024 01.05,Negatif
+164,['program'],1,29/10/2024 10.09,Negatif
+165,['aplikasi'],1,29/10/2024 12.24,Negatif
+166,[],1,29/10/2024 14.06,Negatif
+167,"['susah', 'aplikasi']",1,31/10/2024 11.24,Negatif
+168,"['aplikasi', 'bego', 'error', 'mulu', 'bayar']",1,31/10/2024 22.49,Negatif
+169,"['aplikasi', 'buru', 'sistem', 'salah', 'mulu']",1,01/11/2024 01.10,Negatif
+170,"['up', 'kartu', 'offline', 'transaksi', 'rugi', 'buang', 'sesal', 'ganti', 'emoney', 'jackard']",1,01/11/2024 17.50,Negatif
+171,"['aplikasi', 'ganggu', 'metode', 'pembayararankalo', 'olah', 'paksa']",1,05/11/2024 02.34,Negatif
+172,"['buka', 'mudah', 'sulit', 'aplikasi', 'lambat']",1,06/11/2024 00.42,Negatif
+173,"['buang', 'duit', 'pajak', 'warga', 'dki', 'gaji', 'aplikasi', 'abal']",1,06/11/2024 05.20,Negatif
+174,"['salah', 'scan']",1,06/11/2024 11.04,Negatif
+175,"['angkotnya', 'terburuburu', 'jalan', 'tumpang']",1,07/11/2024 02.01,Negatif
+176,"['aplikasi', 'tolol', 'hapus', 'aplikasi', 'rute', 'pilih', 'salah', 'ajahaltenya', 'dimanatapi', 'uang', 'kembaliinheran', 'perintah', 'kayak', 'bodohin', 'masyarakat', 'ambil', 'uang']",1,09/11/2024 15.23,Negatif
+177,"['aplikasi', 'tolol']",1,10/11/2024 11.01,Negatif
+178,"['beli', 'masuk', 'tiket', 'aktif', 'customer', 'buru', 'kejar', 'kendara', 'paksa', 'bal', 'tiket', 'metode', 'tiket', 'laku', 'periode', 'laku', 'pakai', 'esok', 'rugi', 'bayar', 'kali', 'rekomen']",1,11/11/2024 03.03,Negatif
+179,"['pas', 'pakai', 'halte', 'bayar']",1,12/11/2024 01.06,Negatif
+180,"['drevernya', 'kadang', 'renti', 'stop', 'bus', 'nongolin', 'kartu', 'ngebut', 'sop', 'sih', 'kalo', 'kebut', 'tan', 'bawa', 'mobil', 'drevernya', 'ngedumel', 'tugas', 'kerja', 'pilih', 'resek']",1,12/11/2024 07.59,Negatif
+181,"['saldo', 'tiket', 'muncul']",1,14/11/2024 07.25,Negatif
+182,['banget'],1,15/11/2024 10.50,Negatif
+183,"['aplikasi', 'sampah', 'pembayarn', 'masuk', 'jalan']",1,16/11/2024 05.23,Negatif
+184,"['sulit', 'check', 'out', 'qr', 'code', 'sulit', 'baca', 'scanner']",1,17/11/2024 13.04,Negatif
+185,"['armada', 'b', 'ditambahin']",1,19/11/2024 11.38,Negatif
+186,"['aplikasi', 'jelek', 'titik', 'lokasi', 'sesuai', 'bayar', 'praktis', 'refund', 'tugas', 'tkdak', 'erti', 'beli', 'tugas', 'wanita', 'transjakarta', 'halte', 'bundar', 'senayan', 'layan', 'erti', 'baca', 'sengaja', 'beli', 'kartu', 'tau', 'aplikasi', 'jelek']",1,19/11/2024 15.31,Negatif
+187,"['baca', 'qr', 'kadang', 'sulit', 'baca']",1,22/11/2024 06.43,Negatif
+188,"['aplikasi', 'kouta', 'penuh', 'jaring', 'kali', 'hasil', 'muat', 'ulang', 'orang', 'beli', 'mudah', 'sulit']",1,22/11/2024 14.56,Negatif
+189,"['aplikasi', 'registrasi', 'aplikasi', 'urus', 'sih']",1,23/11/2024 05.25,Negatif
+190,"['aplikasi', 'ira', 'ubah', 'niat', 'cek', 'rute', 'mikrotrans', 'rute', 'angkotnya', 'angkot', 'situ', 'aplikasi', 'sesal']",1,23/11/2024 17.12,Negatif
+191,"['b', 'hapus', 'jaklingko', 'bawa', 'penumpangjurusan', 'pasar', 'bintara', 'cipinang', 'indah', 'tolak', 'tumpang', 'arah', 'bintara', 'kantor', 'urus', 'agama', 'jl', 'ngurah', 'rai', 'mobil', 'kosong', 'brengsek']",1,24/11/2024 11.23,Negatif
+192,"['aplikasi', 'tau']",1,28/11/2024 10.47,Negatif
+193,"['sumpah', 'salah', 'sekolah', 'sekolah', 'gara', 'aplikasi', 'salah', 'nangissssssssss', 'kali', 'salah', 'buru', 'sulit']",1,28/11/2024 22.56,Negatif
+194,"['server', 'aplikasi', 'mulu']",1,02/12/2024 06.47,Negatif
+195,"['aplikasi', 'jelek', 'gua', 'bayar', 'double', 'gegara', 'pending', 'kali', 'pesan', 'tiket', 'hasil', 'deh', 'bayar', 'qr', 'kadang', 'muncul', 'bapuk', 'buruk', 'aplikasi', 'rekomen', 'mending', 'pakai', 'kartu']",1,05/12/2024 01.27,Negatif
+196,"['rugi', 'bayar', 'hasil', 'tiket', 'muncul']",1,05/12/2024 07.24,Negatif
+197,"['kecewa', 'rugi', 'beli', 'sesuai', 'titik', 'terang', 'ubah', 'beli', 'kali', 'beli', 'lo']",1,06/12/2024 01.59,Negatif
+198,"['pikir', 'pakai', 'aplikasi', 'mudah', 'nyata', 'tugas', 'kaya', 'ngang', 'ngeng', 'ngong', 'sotau', 'coba', 'beli', 'kartu', 'nyata', 'mesin', 'aduh', 'tau', 'orang', 'ngejar']",1,06/12/2024 22.54,Negatif
+199,"['lelet', 'otp']",1,07/12/2024 11.04,Negatif
+200,"['bikin', 'mutar', 'muter', 'pakai', 'jaklingko', 'henti', 'stasiun', 'cek', 'pakai', 'maps', 'nyata', 'pangkas', 'stasiun', 'rugi', 'menit']",1,08/12/2024 05.14,Negatif
+201,"['aplikasi', 'perintah', 'anjing', 'buang', 'duit', 'buang', 'beli', 'tiket', 'pakai', 'gate', 'salah', 'aplikasi', 'salah', 'tugas', 'ngang', 'ngong', 'klop', 'niat', 'upgrade', 'kayak', 'negara', 'maju', 'lihat']",1,08/12/2024 14.34,Negatif
+202,"['lemah', 'server', 'offline', 'mulu', 'malam', 'login', 'sulit', 'pulang']",1,08/12/2024 15.56,Negatif
+203,"['aplikasi', 'perintah', 'gila', 'uangudh', 'kali', 'bayar', 'status', 'proses', 'olimokaryawan', 'masuk', 'bilang', 'uang', 'up', 'kartu', 'hasil', 'kepotongkaryawannya', 'muka', 'judes', 'asa', 'kalo', 'halte', 'kalo', 'proses', 'kasih', 'bijak', 'masuk', 'rapor', 'merekakenapa', 'sulit', 'banget', 'ya']",1,09/12/2024 02.28,Negatif
+204,"['aplikasi', 'gara', 'gara', 'lo', 'gue', 'telat', 'tunggu', 'transjakarta', 'doang', 'jam']",1,09/12/2024 06.37,Negatif
+205,"['aplikasi', 'rusak', 'beli', 'tiket', 'pakai', 'hadehh', 'buang', 'duit']",1,12/12/2024 01.26,Negatif
+206,"['sumpah', 'pelayananya', 'jelek']",1,12/12/2024 04.16,Negatif
+207,"['kesal', 'aplikasi', 'suka', 'salah', 'bayar', 'kali', 'proses', 'beli', 'lemah']",1,12/12/2024 10.30,Negatif
+208,"['aplikasi', 'rugi', 'pilih', 'rute', 'masuk', 'akal', 'repot', 'posisi', 'halte', 'slip', 'manggis', 'arah', 'selatan', 'pas', 'pilih', 'suruh', 'pakai', 'halte', 'harap', 'discann', 'rute', 'transjakarta', 'bingung', 'developer', 'tolong', 'kroscek', 'langsung', 'butuh', 'biar', 'aplikasi', 'manfaat', 'masyarakat', 'aplikasi']",1,14/12/2024 03.03,Negatif
+209,"['supir', 'jaklingko', 'ugal', 'ugalan', 'jalan', 'belah', 'kiri', 'ngebut', 'sabar', 'ngedim', 'malam', 'sih', 'supir', 'nyelip', 'kiri', 'serempet', 'belok', 'kiri', 'rekam', 'dashcam', 'upload', 'youtube', 'laku', 'supir', 'jaklingko', 'ugal', 'ugalan']",1,14/12/2024 22.53,Negatif
+211,"['jelasin', 'ikan', 'bukti', 'tanggung', 'perintah', 'saldo', 'ribu', 'alas', 'hadeh', 'hadeh', 'aplikasi', 'tolol']",1,15/12/2024 13.48,Negatif
+212,"['aplikasi', 'andal', 'ganggu']",1,17/12/2024 00.46,Negatif
+213,"['lambat', 'opsi', 'bayar', 'dikit', 'like', 'who', 'tf', 'use', 'fello']",1,17/12/2024 01.32,Negatif
+214,"['tiket', 'muncul', 'kali', 'refund', 'jaring', 'beli', 'tiket', 'aplikasi', 'buka']",1,17/12/2024 16.14,Negatif
+215,"['server', 'tiket', 'hangus', 'sulit']",1,17/12/2024 16.16,Negatif
+216,"['aplikasi', 'gunaudah', 'mbayar', 'tiket']",1,18/12/2024 13.59,Negatif
+217,"['aplikasi', 'salah', 'ajg', 'kntl']",1,19/12/2024 00.33,Negatif
+218,"['hilang', 'jaklingko', 'putus', 'buruk', 'pt', 'transjakarta']",1,19/12/2024 05.56,Negatif
+219,"['driver', 'apatis', 'kes', 'niat', 'kerja', 'tunggu', 'jaklingko', 'pas', 'orang', 'penuhpadahal', 'gaboleh', 'tunggu', 'menit', 'pas', 'penuh', 'jalan', 'tau', 'deret', 'kosong', 'ngebut', 'kecewa', 'habis', 'tenaga']",1,20/12/2024 07.52,Negatif
+220,"['aplikasi', 'suka', 'error']",1,21/12/2024 00.03,Negatif
+221,"['aplikasi', 'lemah', 'tugas', 'apda', 'lemah', 'makan', 'gaji', 'buta', 'halte', 'pluit', 'tuh', 'perhati', 'pakai', 'aplikasi', 'gratis', 'ya', 'makan', 'gaji', 'buta']",1,22/12/2024 05.28,Negatif
+222,"['jurus', 'stasiun', 'cakung', 'cipinang', 'indah', 'jaklingko', 'stasiun', 'pondok', 'kopi', 'tanggal', 'jam', 'malam', 'terima', 'tumpang', 'b', 'b', 'pulang', 'katanyapayaahhhhbegitu', 'kalo', 'gaji']",1,22/12/2024 14.14,Negatif
+223,"['beli', 'tiket', 'tiket', 'saldo', 'potong', 'chat', 'cs', 'bilang', 'kerja', 'saldo', 'gabalik']",1,23/12/2024 14.46,Negatif
+224,"['pilih', 'cawang', 'otista', 'tau', 'pas', 'bayar', 'ubah', 'cawang', 'ciliwung', 'aplikasi', 'mending', 'bayar', 'pakai', 'dompet', 'digital', 'dikit', 'aplikasi', 'ngerugiin']",1,24/12/2024 04.50,Negatif
+225,"['aplikasi', 'gembel', 'barcode', 'valid', 'susah', 'orang', 'berangkat', 'kerja', 'searching', 'halte', 'muncul', 'halte', 'kadang', 'salah', 'buru', 'mending', 'benerin', 'ui', 'ux', 'nih', 'aplikasi', 'gembel']",1,25/12/2024 23.00,Negatif
+226,"['aplikasi', 'isi', 'pulsa', 'masuk', 'resa']",1,27/12/2024 07.26,Negatif
+227,['okotrip'],1,28/12/2024 11.14,Negatif
+228,"['layan', 'buruk', 'saldo', 'hasil', 'saldo', 'rek', 'potong', 'refund', 'pagi', 'scan', 'barcode', 'masuk', 'halte', 'manggarai', 'pakai', 'aplikasi', 'jaklingko', 'aduh', 'tiket', 'batal', 'saldo', 'refund', 'tolong', 'layan', 'sistem', 'langgan', 'nyaman', 'transjakarta']",1,30/12/2024 01.55,Negatif
+229,"['daftar', 'sulit', 'banget', 'isi', 'data', 'aplikasi']",1,31/12/2024 03.07,Negatif
+230,"['kartu', 'belanja']",2,14/02/2024 14.44,Negatif
+231,"['kemarin', 'ubah', 'sulit', 'pakai', 'qris', 'qrisnya', 'salah', 'topup', 'kartu', 'halte', 'tautin', 'ovo', 'opsi', 'bayar', 'batas', 'pakai', 'ovo', 'biaya', 'adm', 'aplikasi', 'lola', 'pokok', 'hambat', 'deh']",2,07/03/2024 01.50,Negatif
+232,"['fitur', 'cari', 'rute', 'hasil', 'temu', 'aneh', 'posisi', 'jalur', 'halte', 'mohon']",2,18/03/2024 10.36,Negatif
+233,"['sedih', 'jalur', 'jaklingko', 'kwk']",2,27/03/2024 04.30,Negatif
+234,"['tolong', 'supirnya', 'sortir']",2,19/04/2024 07.56,Negatif
+235,"['kode', 'qr', 'baca', 'mobile', 'banking']",2,12/05/2024 04.56,Negatif
+236,"['cari', 'halte', 'transjakarta', 'muncul', 'tulis', 'nama', 'halte']",2,07/06/2024 02.09,Negatif
+237,"['aplikasi', 'integrasi', 'armada', 'fitur', 'berangkat', 'disetting', 'ganti', 'klik', 'yntuk', 'rubah']",2,01/07/2024 18.18,Negatif
+238,"['proses', 'beli', 'tiket', 'mudah', 'tuju', 'aplikasi', 'transjakarta']",2,08/07/2024 04.38,Negatif
+239,"['saran', 'pelihara', 'sistem', 'jam', 'orang', 'akitvitas', 'pulang', 'kerja', 'jam', 'eroro', 'tampilin', 'barcode', 'ketrngan', 'sitem', 'pelihara', 'sayang', 'beli', 'ticket', 'jam', 'gunain']",2,10/07/2024 15.54,Negatif
+240,"['tolong', 'program', 'aplikasi', 'utama', 'fitur', 'qris', 'payment', 'salah', 'muncul', 'intap', 'out', 'terimakasih']",2,30/07/2024 00.31,Negatif
+241,"['proses', 'beli', 'tiket', 'proses', 'menit', 'ana']",2,30/07/2024 01.36,Negatif
+242,"['assalamualaikum', 'bu', 'julia', 'uang', 'bu', 'okay', 'terima', 'kasih', 'seterah', 'julia', 'ya', 'bego', 'lu', 'orang', 'jatuh', 'tertawa', 'lu', 'bego', 'lu']",2,03/08/2024 22.21,Negatif
+243,"['anjiiiiing', 'ribeet']",2,06/08/2024 09.23,Negatif
+244,"['aplikasi', 'lambat', 'jelek', 'buru', 'cari', 'rute', 'gilir', 'deh', 'dibutuhin']",2,09/08/2024 00.48,Negatif
+245,"['aplikasi', 'butuh', 'baharu', 'sesuai', 'rute', 'qr', 'kode', 'pilih', 'bayar', 'bolevar', 'selatan', 'velodrome', 'qr', 'kode', 'pulomas', 'lucu', 'loh', 'chek', 'bolevar', 'selatan', 'tuju', 'aplikasi', 'mudah', 'rumit']",2,13/08/2024 00.27,Negatif
+246,"['kayak', 'kalah', 'aplikasi', 'trans', 'tangerang', 'sih', 'coba', 'antum', 'cek', 'aplikasi', 'trans', 'tangerang']",2,14/08/2024 16.26,Negatif
+247,"['aplikasi', 'koneksi']",2,19/08/2024 03.30,Negatif
+248,"['ganggu', 'mulu', 'heran']",2,19/08/2024 04.48,Negatif
+249,"['laku', 'bayar', 'tiket', 'via', 'mobile', 'banking', 'pending', 'jam']",2,21/08/2024 23.51,Negatif
+250,"['depok', 'terminal', 'kprambutan', 'kartu', 'arah', 'instal', 'jaklingko', 'tugas', 'jelasin', 'bayar', 'cawang', 'sentral', 'bayar', 'sambung', 'via', 'kak', 'beli', 'kartu', 'transjakarta', 'nyata', 'cs', 'tuju', 'depok', 'pakai', 'aplikasi', 'jaklingko', 'aplikasi', 'lengkap', 'bantu', 'warga', 'kartu', 'tugas', 'langsung', 'arah', 'beli', 'kartu', 'rugi', 'rugi', 'uang']",2,24/08/2024 10.04,Negatif
+251,"['serung', 'bed', 'error', 'titid']",2,30/08/2024 04.52,Negatif
+252,"['lambat', 'ya', 'responnya', 'pilih', 'upgrade', 'benefitnya', 'ktp', 'plus', 'foto', 'selfie', 'ktp']",2,22/09/2024 04.57,Negatif
+253,"['ui', 'ux', 'buruk', 'jaklinko', 'bagus', 'bintang']",2,24/09/2024 09.44,Negatif
+254,"['driver', 'jaklingko', 'kali', 'paksa', 'turun', 'pindah', 'angkot', 'jaklingko', 'gara', 'area', 'tuju', 'macet', 'driver', 'ngomel', 'macet', 'tumpang', 'sesuai', 'rute', 'tolong', 'edukasi', 'drivernya', 'mentang', 'gratis', 'suka', 'hati']",2,19/10/2024 01.24,Negatif
+255,"['aplikasi', 'jabat', 'perintah', 'harap', 'sidak', 'bagus']",2,26/10/2024 22.10,Negatif
+256,"['kali', 'aplikasi', 'laku', 'bayar', 'salah', 'bayar', 'hasil', 'setatus', 'mbanking', 'aplikasi', 'muncul', 'tiket', 'beli', 'mudah', 'salah', 'beli', 'cari', 'rute', 'ketik', 'mohon', 'aplikasi']",2,01/11/2024 16.47,Negatif
+257,"['bayar', 'pakai', 'qris', 'tinggal', 'scan', 'mesin', 'hp', 'tugas', 'buswaynya', 'qr', 'valid', 'buruk', 'sih', 'cumnn', 'untung', 'tugas', 'erti', 'tertawa']",2,17/11/2024 02.56,Negatif
+258,"['aplikasi', 'sulit', 'log', 'doang', 'coba', 'pakai', 'nomor', 'hp', 'pakai', 'google']",2,17/11/2024 04.57,Negatif
+259,"['up', 'masuk', 'kali', 'status', 'pending', 'sharian', 'uang']",2,05/12/2024 00.59,Negatif
+260,"['server', 'down', 'kadang', 'out']",2,16/12/2024 12.12,Negatif
+261,"['akses', 'loadingnya', 'bayar', 'saldo', 'potong', 'aplikasi', 'logout', 'tinggal', 'transjakarta']",2,17/12/2024 16.23,Negatif
+262,"['muncul', 'notif', 'atur', 'akun', 'melulu']",3,28/01/2024 07.25,Negatif
+263,"['beli', 'tiket', 'lrt', 'stasiun', 'dukuh', 'stasiun', 'lrt', 'tmii']",3,17/03/2024 03.02,Negatif
+264,"['jujur', 'ya', 'aplikasi', 'bagus', 'beli', 'tiket', 'transportasi', 'pakai', 'tarif', 'integrasi', 'murah', 'lemah', 'aplikasi', 'krusial', 'pilih', 'lokasi', 'akurat', 'halte', 'halte', 'terkadang', 'bingung', 'scan', 'qr', 'mesin', 'nyata', 'halte', 'tulis', 'situ', 'ya', 'sih', 'keluh', 'kesah', 'cmiiw']",3,01/04/2024 15.44,Positif
+265,"['performa', 'tracking', 'bus', 'transjakarta', 'minimal', 'tara', 'trafi', 'aplikasi']",3,06/04/2024 02.41,Positif
+266,"['kadang', 'salah', 'repot']",3,20/04/2024 04.56,Negatif
+267,"['susah', 'banget', 'halte', 'nama', 'beda', 'scan', 'sulit', 'baca', 'tugas', 'smuanya', 'sigap']",3,20/04/2024 10.58,Negatif
+268,"['tiket', 'muncul', 'lapor', 'minim', 'respon']",3,06/05/2024 13.56,Negatif
+269,"['rumit', 'cari', 'rute', 'jalan']",3,16/05/2024 00.56,Negatif
+270,"['jaklingko', 'beli', 'tiket']",3,14/06/2024 08.48,Negatif
+271,"['admin', 'lrt', 'jabodebek']",3,20/07/2024 05.42,Negatif
+272,"['aplikasi', 'sih', 'lihat', 'jaklingko', 'data', 'temu']",3,24/07/2024 08.55,Negatif
+273,"['tanggal', 'juli', 'halte', 'puri', 'beta', 'jam', 'jarak', 'bus', 'banget', 'nyata', 'driver', 'wanita', 'tolong', 'kantor', 'training', 'drivernya', 'wanita', 'jarak', 'jatuh']",3,29/07/2024 04.41,Negatif
+274,"['beli', 'tiket', 'langsung', 'tuju', 'rancu']",3,30/07/2024 13.21,Negatif
+275,"['armada', 'meruya', 'nunggunya', 'bikim', 'bete']",3,11/08/2024 03.18,Negatif
+276,"['bintang', 'supir', 'angkot', 'jaklingko', 'ramah']",3,02/10/2024 05.19,Negatif
+277,"['aplikasi', 'sulit', 'dipelajarin', 'tolong', 'tingkat', 'jaklingko', 'arah', 'pinang', 'ranti', 'tunggu', 'jam', 'subuh', 'set', 'tolong', 'terimakasih']",3,20/10/2024 23.18,Negatif
+278,"['servernya', 'down', 'tolong']",3,24/10/2024 07.20,Negatif
+279,"['download', 'nov', 'lrt', 'jabodebek', 'harap', 'tarif', 'integrasi', 'cibubur', 'bekas']",3,02/11/2024 14.31,Negatif
+280,"['saldo', 'isi', 'tampil', 'aplikasi']",3,19/11/2024 13.56,Negatif
+281,"['admin', 'tiket', 'hapus', 'biar', 'tinggal', 'scan', 'biar', 'rumit', 'beli', 'tiket', 'tinggal', 'isi', 'saldon']",3,22/12/2024 12.36,Negatif
+282,"['jaklingko', 'mudah', 'moda', 'transportasi', 'jakarta', 'khusus', 'dar', 'kunjung', 'sayang', 'bayar', 'online', 'via', 'aplikasi', 'kartu', 'jaklingkojackcard', 'moga', 'layan', 'bayar', 'aplikasi', 'krl']",3,27/12/2024 12.53,Positif
+283,"['nomor', 'hp', 'blokir', 'lapor', 'bos']",3,28/12/2024 11.50,Negatif
+284,"['fitur', 'taptaptapandgo', 'registrasi', 'ktp', 'muas', 'scannya', 'sulit', 'kadang', 'sat', 'set', 'khusus', 'terminal', 'tg', 'priok', 'usaha', 'out', 'hasil', 'out', 'notif', 'pulih', 'transaksi', 'habis', 'blokir', 'jam', 'qrisnya']",4,07/02/2024 09.13,Negatif
+285,"['bismillah', 'moga', 'urus', 'mudah', 'keliling', 'orangorang', 'sholehah', 'amin']",4,21/02/2024 10.52,Positif
+286,"['aplikasi', 'down', 'sulit', 'andal', 'diupdate', 'sinyal', 'aman', 'topup', 'salah']",4,13/03/2024 00.45,Negatif
+287,"['moga', 'manfaat', 'pensiun', 'guru']",4,23/04/2024 04.18,Positif
+288,"['saran', 'halte', 'kampung', 'melayu', 'brt', 'transjakarta', 'discan', 'aplikasi', 'jaklingkojli', 'mesin', 'gate', 'mohon', 'masuk', 'halte', 'kampung', 'melayu', 'brt', 'transjakarta', 'halte', 'transjakarta', 'terimakasih']",4,14/08/2024 23.14,Positif
+289,"['lumayan', 'bantu']",4,10/11/2024 09.29,Positif
+290,"['servenya', 'error', 'mulu', 'nih', 'tugas', 'masuk', 'kartu', 'hzzzz']",4,18/12/2024 01.01,Negatif
+291,"['daftarin', 'kartu', 'tarif', 'integrasi', 'tulis', 'user', 'phone', 'required']",4,24/12/2024 07.00,Negatif
+292,['coba'],5,06/01/2024 21.00,Positif
+293,"['aplikasi', 'bagus', 'fast', 'respon', 'lambat', 'fitur', 'canggih', 'bintang', 'thebest']",5,13/01/2024 03.15,Positif
+294,"['jaklingko', 'jaklingko', 'mikrotrans', 'masuk', 'kampung', 'pulangpergi', 'mudah', 'syukur', 'nikmat', 'mudah', 'transportasi', 'kota', 'jakarta', 'luvv', 'pokok', 'transjakarta', 'mikrotrans', 'mrt', 'lrt']",5,15/01/2024 14.34,Positif
+295,['lumayan'],5,15/01/2024 17.36,Positif
+296,"['suka', 'jaklingo', 'mudah']",5,31/01/2024 19.02,Positif
+297,['terimakasih'],5,15/02/2024 13.15,Positif
+298,[],5,28/02/2024 03.21,Positif
+299,['rohayati'],5,09/03/2024 11.40,Positif
+300,['bagus'],5,21/03/2024 16.16,Positif
+301,[],5,18/04/2024 05.32,Positif
+302,"['fateh', 'sarah', 'sofia', 'poniman', 'papa']",5,20/04/2024 02.51,Positif
+304,['bagus'],5,07/05/2024 09.07,Positif
+305,"['loading', 'buka', 'aplikasi', 'sat', 'set', 'cepat', 'suka', 'kartu', 'emoney', 'daftar', 'aplikasi', 'jaklingko', 'langsung', 'pakai', 'hp', 'nfc', 'biar', 'kayak', 'negeri', 'livin', 'by', 'mandiri', 'loh', 'pay', 'pakai', 'nfc', 'pakai', 'pay', 'as', 'you', 'go', 'kadang', 'gate', 'masuk', 'baca', 'qr', 'antri', 'sih', 'saran', 'pay', 'pakee', 'nfc', 'hp', 'aplikasi', 'jaklingko', 'semangat', 'inovasi']",5,25/05/2024 07.00,Positif
+306,"['bantu', 'muter', 'jakarta', 'lupa', 'bawa', 'etoll', 'easy', 'use', 'terima', 'kasih']",5,11/06/2024 03.54,Positif
+307,"['mudah', 'pesan', 'kereta', 'mrt', 'aplikasi', 'jaklingko', 'jaklingko', 'terimakasih', 'developer']",5,13/06/2024 13.51,Positif
+308,"['aplikasi', 'mudah', 'akses', 'lancar', 'buka', 'sistem', 'android', 'moga', 'sistem', 'metode', 'bayar']",5,16/06/2024 10.45,Positif
+310,"['bagus', 'manfaat']",5,28/06/2024 20.07,Positif
+311,"['bantu', 'orang', 'awam', 'jakarta', 'bangkit', 'hasrat', 'travelling', 'transportasi']",5,28/06/2024 23.30,Positif
+312,"['alam', 'pergi', 'takut', 'nyasar', 'terima', 'kasih', 'jaklingko']",5,30/06/2024 07.07,Positif
+313,"['aplikasi', 'jaklingko', 'jaklingko', 'tolong', 'masuk', 'via', 'bayar', 'qr', 'code', 'qris', 'astrapay', 'shopee', 'pay', 'gopay', 'ovo', 'dana', 'bayar', 'via', 'intergrasi', 'pindah', 'moda', 'transjakarta', 'transjakarta', 'mikrotrans', 'angkot', 'mrt', 'jakarta', 'lrt', 'jakarta', 'kereta', 'api', 'kereta', 'commuter', 'kereta', 'bandara', 'nyaman', 'good', 'bagus']",5,11/07/2024 15.59,Positif
+314,"['terima', 'kasih', 'jaklingko', 'jaklingko']",5,26/07/2024 11.27,Positif
+315,"['salam', 'mantaf', 'jiwa']",5,08/08/2024 20.40,Positif
+316,"['bantu', 'jalan', 'utama', 'jalan', 'multi', 'moda', 'murah', 'keliling', 'jakarta', 'tarif', 'jangkau']",5,15/08/2024 06.40,Positif
+317,"['bagus', 'mudah', 'tumpang']",5,15/08/2024 16.10,Positif
+318,"['mudah', 'transportasi', 'darat']",5,16/08/2024 01.21,Positif
+319,"['mudah', 'carapakainya']",5,16/08/2024 01.21,Positif
+320,"['bantu', 'laku', 'bayar', 'transportasi']",5,16/08/2024 01.21,Positif
+321,['bagus'],5,21/08/2024 02.45,Positif
+322,"['tolong', 'kedepanny', 'jaklingko', 'jaklingko', 'aplikasi', 'versi', 'terbaruny', 'tolong', 'lengkap', 'fitur', 'lengkap', 'beli', 'kartu', 'jaklingko', 'jaklingko', 'online', 'menu', 'jaklingko', 'linko', 'aplikasi', 'isi', 'ulang', 'saldo', 'jaklingko', 'linko', 'hapus', 'lapor', 'riwayat', 'transaksi', 'obrol', 'bas', 'ai', 'fb', 'ig', 'wa', 'threads', 'tiktok', 'pantau', 'jalan', 'sendir', 'harap', 'tampil', 'beranda', 'jaklingko', 'jaklingko', 'konsep', 'modern', 'lihat', 'estetik', 'tarik', 'mengunduhny', 't']",5,05/10/2024 15.39,Positif
+323,"['bagus', 'beli', 'tiket', 'mrt', 'aplikasi', 'beefaefah']",5,08/10/2024 16.03,Positif
+324,"['lupa', 'bawa', 'kartu', 'emoneyakhirnya', 'transjakarta', 'pakai', 'aplikasi', 'inibyrnya', 'pakai', 'qris']",5,17/10/2024 23.54,Positif
+325,"['jaklingko', 'banget', 'cok']",5,18/10/2024 10.04,Negatif
+326,"['tolong', 'posisi', 'mobil', 'mikrotransnya', 'akurat', 'admin', 'biar', 'moda', 'transportasi']",5,18/10/2024 14.57,Positif
+327,"['bagus', 'aplikasi', 'cepat', 'respon']",5,26/10/2024 09.19,Positif
+328,['bantu'],5,27/10/2024 00.41,Positif
+329,['oke'],5,27/10/2024 22.03,Positif
+330,"['mudah', 'rute', 'bantu']",5,28/10/2024 04.40,Positif
+331,['bagus'],5,01/11/2024 15.49,Positif
+332,"['aplikasi', 'favorit', 'pergi']",5,08/11/2024 15.02,Positif
+333,"['layan', 'customer', 'langgan']",5,01/12/2024 22.37,Positif
